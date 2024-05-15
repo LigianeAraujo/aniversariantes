@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 :root {
     --cor-de-fundo: #050505;
-    --verde: #0004f4;
+    --verde: #c300ff94;
     --branco: #FFFFFF;
     --botao-ativo: #ffffff;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -89,6 +89,27 @@ body {
     text-align: center;
 }
 .aba-conteudo-titulo-secundario{
+    ￼Meu Aniversario
+    ￼Aniversario da Ary
+    ￼Aniversario da Aline
+    ￼Aniversario da Fernanda
+    Fernanda
+    05/03/2007
+    293
+    
+    dias
+    
+    8
+    
+    horas
+    
+    59
+    
+    min
+    
+    24
+    
+    seg
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
